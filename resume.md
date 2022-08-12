@@ -110,37 +110,29 @@ location {
 
 </span>
 
-## Professional Summary
+## Software Developer, Data Scientist, and Team Leader
 
-Senior Manager and Software engineer experienced communicating and working across teams and organizations to deliver production ready software solutions. Experience designing, building, and documenting production ready, enterprise products while collaborating with business partners, UX/UI designers and technical teams across organizations. Comfortable leading groups of Software Engineers with diverse skill sets at different levels in their careers.
-
-## Leadership Skills
-
-- Able to effectively communicate both vertically and horizontally
-- Comfortable communicating at the executive level and disseminating information constructively
-- Hold others accountable by setting expectations
-- Motivate and build team members skills, both technical and interpersonal
-- Hold regular one on ones and mentor other engineers
-- Build and maintain professional relationships
+Full-stack software engineer with a proven track record of building effective, data-driven tools within a >$500B Fortune 1 omnichannel retailer.  Collaborates with operators, technical leaders, and senior business leadership to deliver concise, performant insights that drive business results.  Effective problem-solver, team leader, and mentor.
 
 ## Strengths & Expertise
 
 <div class="skill-columns">
     <ul>
         <li>Servant Leadership</li>
-        <li>Strategic Planning</li>
-        <li>Teamwork</li>
-        <li>Creative Problem Solving</li>
-        <li>Goal Driven</li>
-        <li>Coaching & Mentoring</li>
-        <li>SDLC and CICD</li>
-        <li>Software Architecture</li>
-        <li>Product & Risk Management</li>
         <li>First Principles Thinking</li>
-        <li>Integrity</li>
-        <li>Empathy</li>
-        <li>Adaptability</li>
-        <li>Emotional Intelligence</li>
+        <li>Backlog Prioritization</li>
+        <li>Coaching and Mentoring</li>
+ 
+        <li>Full-stack App Development</li>
+        <li>Data Engineering</li>
+        <li>Data Visualization</li>
+        <li>SDLC and CICD</li>
+        
+        <li>Product Ownership</li>
+        <li>Risk Management</li>
+        <li>Project Management</li>
+        <li>End-User Support</li>
+
     </ul>
 </div>
 
@@ -149,41 +141,41 @@ Senior Manager and Software engineer experienced communicating and working acros
 ### Senior Manager, Staff Data Engineer <time> Sep 2019 – Aug 2022 </time>
 <location> Walmart US Business Operations Data and Analytics </location>
 
-- Provided data analytics solutions for Walmart US store and business leadership
-- Developed tools to provide valuable business insights and data visualization using React and NodeJS
-- Developed and maintained data ETL pipelines using Microsoft SSIS
+- Provided data analytics solutions for Walmart's US segment
+- Developed and maintained automated ETL pipelines and full-stack data visualization applications
 - Administered 8 Redhat Enterprise Linux servers for application deployments
-- Technical Lead for a team of 5 contractors in all applications development efforts
 - Facilitated SCRUM processes including daily team stand-ups, backlog grooming, and team retrospectives
+- Led team of five contractors (technical lead)
+- Languages and Frameworks: Microsoft SSIS, React, NodeJS
 
 ### Software Engineer III <time> Aug 2017 – Sep 2019 </time>
 <location> Walmart Software Delivery Enablement </location>
 
-- Developed web application solutions with react, NodeJS, and Java 8
+- Developed automated application deployment pipelines and built web-based software solutions
 - Contributed to [Concord](https://concord.walmartlabs.com), Walmart's custom open source workflow orchestration framework
-- Developed automated application deployment pipelines with Ansible and Python
 - Lead development efforts to improve the user experience of our internal development tools
 - Supported developers with optimizing their CICD workflows
-- CoFounded and hosted an internal frontend development support group that met bi-weekly
+- Co-founded and hosted a bi-weekly internal frontend development support group
+- Languages and Frameworks: Python, Ansible, React, NodeJS, Java 8
 
 ### Programmer, Programmer Analyst <time> Mar 2015 – Aug 2017 </time>
 <location> Walmart Point of Sale Development and Store Systems Production Support </location>
 
-- Technical lead for point of sale backend infrastructure and PCI projects
-- Technical lead for point of sale data ETL and transaction storage
-- Developed web application solution for quickly finding customer transaction data with extra tax and signature metadata 
-- Discovered and resolved 2 high-risk data transfer vulnerabilities
-- Provided root cause analysis on system level problems and developed solutions to maximize future system reliability
-- Provided on-call production support of all international point of sale and unix systems
+- Technical lead for Point of Sale (POS) backend infrastructure, PCI projects, data ETO, and transaction storage
+- Discovered and resolved two high-risk data transfer vulnerabilities
+- Developed web application solution to quickly surface detailed customer transaction data/metadata 
+- Conducted root cause analysis on systemic problems and developed solutions to improve platform reliability
+- Provided on-call production support for all international POS and Unix systems
+- Languages and Frameworks: TO BE ADDED
 
 ### Client Services Technician <time> Dec 2011 - Jun 2013 </time>
-<location> Walmart Associate helpdesk </location>
+<location> Walmart Associate Help Desk </location>
 
-- Supported associated with technical issues impacting their business productivity
-- Accepted calls from a phone queue and strived for first call resolution
-- Used incident management tools to accurately record reported problems and business impact
-- Routed callers to appropriate teams and areas or created incident tickets
+- Supported associates with technical issues impacting their business productivity
+- Developed self-service tools that provided fixes for common issues in order to minimize time and effort to resolution
 - Prioritized and worked through incident backlogs
-- Developed a distributed self-service tools that provided fixes for common issues and minimizing the call time for supported fixes
+- Identified and connected callers to appropriate resources to drive effective issue resolution 
+- Used incident management tools to accurately record reported problems and business impact
+- Languages and Frameworks: TO BE ADDED
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
