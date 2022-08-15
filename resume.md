@@ -127,20 +127,21 @@ Senior Manager and Software engineer experienced communicating and working acros
 
 <div class="skill-columns">
     <ul>
+        <li>Product & Risk Management</li>
+        <li>Creative Problem Solving</li>
+        <li>First Principles Thinking</li>
+        <li>Emotional Intelligence</li>
+        <li>Software Architecture</li>
+        <li>Written Communication</li>
+        <li>Coaching & Mentoring</li>
         <li>Servant Leadership</li>
         <li>Strategic Planning</li>
-        <li>Teamwork</li>
-        <li>Creative Problem Solving</li>
-        <li>Goal Driven</li>
-        <li>Coaching & Mentoring</li>
         <li>SDLC and CICD</li>
-        <li>Software Architecture</li>
-        <li>Product & Risk Management</li>
-        <li>First Principles Thinking</li>
-        <li>Integrity</li>
-        <li>Empathy</li>
         <li>Adaptability</li>
-        <li>Emotional Intelligence</li>
+        <li>Goal Driven</li>
+        <li>Tenacious</li>
+        <li>Empathy</li>
+        <li>Integrity</li>
     </ul>
 </div>
 
@@ -154,7 +155,7 @@ Senior Manager and Software engineer experienced communicating and working acros
 - Developed and maintained data ETL pipelines using Microsoft SSIS
 - Administered 8 Redhat Enterprise Linux servers for application deployments
 - Technical Lead for a team of 5 contractors in all applications development efforts
-- Facilitated SCRUM processes including daily team stand-ups, backlog grooming, and team retrospectives
+- Facilitated SCRUM including daily team stand-ups, backlog grooming, and team retrospectives
 
 ### Software Engineer III <time> Aug 2017 – Sep 2019 </time>
 <location> Walmart Software Delivery Enablement </location>
@@ -179,7 +180,7 @@ Senior Manager and Software engineer experienced communicating and working acros
 ### Client Services Technician <time> Dec 2011 - Jun 2013 </time>
 <location> Walmart Associate helpdesk </location>
 
-- Supported associated with technical issues impacting their business productivity
+- Supported associates with technical issues impacting their business productivity
 - Accepted calls from a phone queue and strived for first call resolution
 - Used incident management tools to accurately record reported problems and business impact
 - Routed callers to appropriate teams and areas or created incident tickets
