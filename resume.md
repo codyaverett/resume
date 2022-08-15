@@ -118,6 +118,13 @@ Full-stack software engineer with a proven track record of building effective, d
 
 <div class="skill-columns">
     <ul>
+        <li>Product & Risk Management</li>
+        <li>Creative Problem Solving</li>
+        <li>First Principles Thinking</li>
+        <li>Emotional Intelligence</li>
+        <li>Software Architecture</li>
+        <li>Written Communication</li>
+        <li>Coaching & Mentoring</li>
         <li>Servant Leadership</li>
         <li>First Principles Thinking</li>
         <li>Backlog Prioritization</li>
