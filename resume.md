@@ -129,12 +129,10 @@ Full-stack software engineer with a proven track record of building effective, d
         <li>First Principles Thinking</li>
         <li>Backlog Prioritization</li>
         <li>Coaching and Mentoring</li>
- 
         <li>Full-stack App Development</li>
         <li>Data Engineering</li>
         <li>Data Visualization</li>
         <li>SDLC and CICD</li>
-        
         <li>Product Ownership</li>
         <li>Risk Management</li>
         <li>Project Management</li>
@@ -153,7 +151,7 @@ Full-stack software engineer with a proven track record of building effective, d
 - Administered 8 Redhat Enterprise Linux servers for application deployments
 - Facilitated SCRUM processes including daily team stand-ups, backlog grooming, and team retrospectives
 - Led team of five contractors (technical lead)
-- Languages and Frameworks: Microsoft SSIS, React, NodeJS
+- Languages and Frameworks: Microsoft SSIS, SQL Server, React, NodeJS, Typescript, Docker
 
 ### Software Engineer III <time> Aug 2017 – Sep 2019 </time>
 <location> Walmart Software Delivery Enablement </location>
@@ -163,7 +161,7 @@ Full-stack software engineer with a proven track record of building effective, d
 - Lead development efforts to improve the user experience of our internal development tools
 - Supported developers with optimizing their CICD workflows
 - Co-founded and hosted a bi-weekly internal frontend development support group
-- Languages and Frameworks: Python, Ansible, React, NodeJS, Java 8
+- Languages and Frameworks: Python, Ansible, React, NodeJS, Typescript, Java 8, Linux, Docker
 
 ### Programmer, Programmer Analyst <time> Mar 2015 – Aug 2017 </time>
 <location> Walmart Point of Sale Development and Store Systems Production Support </location>
@@ -173,7 +171,7 @@ Full-stack software engineer with a proven track record of building effective, d
 - Developed web application solution to quickly surface detailed customer transaction data/metadata 
 - Conducted root cause analysis on systemic problems and developed solutions to improve platform reliability
 - Provided on-call production support for all international POS and Unix systems
-- Languages and Frameworks: TO BE ADDED
+- Languages and Frameworks: C++, Typescript, Angular, Linux
 
 ### Client Services Technician <time> Dec 2011 - Jun 2013 </time>
 <location> Walmart Associate Help Desk </location>
@@ -183,6 +181,6 @@ Full-stack software engineer with a proven track record of building effective, d
 - Prioritized and worked through incident backlogs
 - Identified and connected callers to appropriate resources to drive effective issue resolution 
 - Used incident management tools to accurately record reported problems and business impact
-- Languages and Frameworks: TO BE ADDED
+- Languages and Frameworks: Javascript, Powershell
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
