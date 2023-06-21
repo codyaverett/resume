@@ -122,103 +122,78 @@
 
 </span>
 
-## Staff Software Engineer
+## Expert Software Engineer
 
-Full-stack software and automation engineer with a proven track record of building effective, data-driven tools within a >$500B Fortune 1 omnichannel retailer.  Collaborates with operators, technical leaders, and senior business leadership to deliver concise, performant insights that drive business results.  Effective problem-solver, team player, and mentor.
-
-## Strengths & Expertise
-
-<div class="skill-columns">
-    <ul>
-        <li>First Principles Thinking</li>
-        <li>Collaborative Mentoring</li>
-        <li>Servant Leadership</li>
-        <li>End-User Support</li>
-
-    </ul>
-    <ul>
-        <li>SDLC, CICD, and Devops</li>
-        <li>Full-stack Development</li>
-        <li>Application Containers</li>
-        <li>Process Automation</li>
-    </ul>
-    <ul>
-        <li>Product Management</li>
-        <li>Product Ownership</li>
-        <li>Product Planning</li>
-        <li>Risk Mitigation</li>
-    </ul>
-    <ul>
-        <li>SDLC, CICD, and Devops</li>
-        <li>Full-stack Development</li>
-        <li>Application Containers</li>
-        <li>Process Automation</li>
-    </ul>
-    <ul>
-        <li>Product Management</li>
-        <li>Product Ownership</li>
-        <li>Product Planning</li>
-        <li>Risk Mitigation</li>
-    </ul>
-</div>
+Results-driven full-stack software engineer specializing in JavaScript and TypeScript with a strong track record of building impactful, data-driven tools. Experienced in working remotely and adept at learning and adapting to new technologies. Previously contributed to the success of the >$500B Fortune 1 omnichannel retailer, collaborating with operators, technical leaders, and senior business executives to deliver concise, high-performance insights that drove significant business outcomes. Recognized as an effective problem-solver, collaborative team player, and mentor.
 
 ## Experience
 
-### Senior Software Engineer, Staff Software Engineer <time>Sep 2019 – Present</time>
-<location> Walmart US Business Operations Data and Analytics </location>
+### Senior Fullstack Engineering Consultant<time>Jan 2023 - July 2023</time>
+<location>Viasat Commercial Aviation</location>
 
-- Responsible for defining project scopes, goals, deliverables, and deadlines to plan for success
-- Onboarded projects into CI pipelines for automatic development feedback loops and reporting
-- Designed and implemented custom docker containers for specialized business applications
-- Implemented continuous delivery pipelines for infrastructure and application deployments
-- Administered 8 Redhat Enterprise Linux servers for application deployments with Ansible
-- Responsible for facilitating SCRUM procedures and team performance reporting
-- Responsible for onboarding, mentoring, and supporting our developers
-- Developed blue/green zero-downtime container deployment solution
-- Developed full-stack data driven applications and visualizations
-- Developed data analytics solutions for Walmart's US segment
-- Developed and maintained shared application modules
-- Developed web application APIs
-- ___Languages and Frameworks: Microsoft SSIS and SQL Server, Jenkins, Redis, React, NodeJS, Typescript, Python, Ansible, GoLang, Docker, Podman, Nginx+, Google cloud___
+- Developed innovative solutions for technical airline managers, enabling them to gain valuable insights into network performance, airplane coordinates, and altitude, resulting in improved operational efficiency and decision-making.
+- Contributed to the development of software enhancements for a major airline's inflight connectivity and entertainment systems, enhancing the passenger experience and ensuring seamless performance.
+- Implemented comprehensive test coverage at the unit, component, and integration levels for client and API software, ensuring high quality and reliability of the software.
+- Provided timely support for production issues in a Kubernetes cluster on AWS, minimizing downtime and ensuring system stability.
+- Identified and resolved memory leak issues in the CI pipeline, significantly improving the efficiency and reliability of the development process.
+- Created Jenkins pipelines for various CI processes, automating build, test, and deployment tasks and streamlining the software development lifecycle.
+- Developed tools to support test data files, preventing primary key collisions and ensuring accurate and reliable testing.
+- Presented technical topics in area-wide community meetings, sharing knowledge and best practices with peers and contributing to professional development.
+- Championed the update of outdated practices and played a key role in the improvement efforts, driving positive change within the organization.
+- Implemented a playwright integration test suite, replacing a buggy Selenium test suite and improving test reliability and efficiency.
+- Consistently maintained and updated documentation related to daily work and ideas, ensuring knowledge transfer and fostering collaboration within the team.
 
 ---
 
-### Software Engineer III <time> Aug 2017 – Sep 2019 </time>
-<location> Walmart Software Delivery Enablement </location>
+### Senior Fullstack Engineer, Staff Software Engineer <time>Sep 2019 – Nov 2022</time>
+<location>Walmart US Business Operations Data and Analytics</location>
 
-- Contributed to the UI and server of [Concord](https://concord.walmartlabs.com), Walmart's in-house open source CD framework
-- Lead development efforts to improve the user experience of our internal development tools
-- Developed continuous deployment pipelines and built web-based software solutions
-- Co-founded and hosted a bi-weekly internal frontend development support group
-- Supported developers with optimizing their CICD workflows via code review
-- Contributed to the design of [Concord](https://concord.walmartlabs.com)'s Domain Specific Language
-- Developed and maintained web application APIs
-- ___Languages and Frameworks: Python, Ansible, React, NodeJS, Typescript, Java 8, PostgresSQL, Linux, Docker, OpenStack___
-
----
-
-### Programmer, Programmer Analyst <time> Jun 2013 – Aug 2017 </time>
-<location> Walmart Point of Sale Development and Store Systems Production Support </location>
-
-- Conducted root cause analysis on systemic problems, created solutions improving system reliability
-- Developed web application solution to quickly surface detailed customer transaction data/metadata
-- Technical lead for Point of Sale (POS) service infrastructure, PCI projects, and transaction storage
-- Provided on-call production support for all international POS and Unix systems
-- Discovered and resolved two high-risk data transfer vulnerabilities
-- Developed Python APIs to monitor IBM 4690 OS system utilization
-- Developed MVP mobile native application for customer check-in
-- ___Languages and Frameworks: C++, Python, Typescript, Angular, Linux, Apache Cordova, Puppet, Ansible___
+- Led project planning and successfully defined project scopes, goals, deliverables, and deadlines, resulting in successful outcomes.
+- Implemented CI pipelines to enable automatic development feedback loops and reporting, improving development efficiency and quality.
+- Designed and implemented customized Docker containers for specialized business applications, optimizing performance and scalability.
+- Established continuous delivery pipelines for infrastructure and application deployments, reducing deployment time and improving reliability.
+- Managed a cluster of 8 Red Hat Enterprise Linux servers for application deployments using Ansible, ensuring smooth operations.
+- Facilitated SCRUM procedures and provided team performance reporting, fostering collaboration and transparency within the team.
+- Mentored and onboarded developers, contributing to their growth and enabling them to deliver high-quality work.
+- Developed a blue/green zero-downtime container deployment solution, ensuring seamless updates and minimizing downtime.
+- Created full-stack data-driven applications and visualizations, enabling data insights and enhancing decision-making processes.
+- Implemented data analytics solutions for Walmart's US segment, providing valuable insights for business optimization.
+- Maintained and enhanced shared application modules, ensuring code reusability and maintaining high development standards.
+- Developed robust web application APIs, enabling seamless integration and communication between different systems.
 
 ---
 
-### Client Services Technician <time> Dec 2011 - Jun 2013 </time>
-<location> Walmart Associate Help Desk </location>
+### Software Engineer III <time>Aug 2017 – Sep 2019</time>
+<location>Walmart Software Delivery Enablement</location>
 
-- Developed self-service tool to fix common issues and minimize time and effort towards resolution
-- Used incident management tools to accurately record reported problems and business impact
-- Identified and connected callers to appropriate resources to drive effective issue resolution 
-- Supported associates with technical issues impacting their business productivity
-- Prioritized and worked through incident backlogs
-- ___Languages and Frameworks: Javascript, Powershell___
+- Played a key role in the development of [Concord](https://concord.walmartlabs.com), Walmart's in-house open-source CD framework, by contributing to the UI and server components, enhancing its functionality and usability.
+- Led development efforts to enhance the user experience of internal development tools, resulting in improved efficiency and productivity for the development team.
+- Successfully implemented continuous deployment pipelines and developed web-based software solutions, accelerating the software delivery process and ensuring seamless deployments.
+- Co-founded and hosted a bi-weekly internal frontend development support group, fostering knowledge sharing, collaboration, and skills development within the team.
+- Provided support to developers in optimizing their CICD workflows through thorough code reviews, resulting in improved code quality and streamlined processes.
+- Made significant contributions to the design of Concord's Domain Specific Language (DSL), enabling efficient configuration and customization of deployment workflows.
+- Developed and maintained robust web application APIs, facilitating smooth integration and communication between different systems.
 
-<!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
+---
+
+### Programmer, Programmer Analyst <time>Jun 2013 – Aug 2017</time>
+<location>Walmart Point of Sale Development and Store Systems Production Support</location>
+
+- Conducted thorough root cause analysis on systemic problems, leading to the implementation of solutions that significantly improved system reliability and performance.
+- Developed a web application solution that enabled quick access to detailed customer transaction data and metadata, empowering the team to make data-driven decisions.
+- Served as the technical lead for the Point of Sale (POS) service infrastructure, overseeing PCI projects and transaction storage, ensuring compliance and secure data handling.
+- Provided on-call production support for all international POS and Unix systems, ensuring smooth operations and resolving critical issues promptly.
+- Successfully identified and resolved two high-risk data transfer vulnerabilities, implementing necessary security measures to protect sensitive information.
+- Developed Python APIs to monitor IBM 4690 OS system utilization, enabling effective performance monitoring and proactive maintenance.
+- Led the development of a minimum viable product (MVP) mobile native application for customer check-in, enhancing the customer experience and streamlining the check-in process.
+
+---
+
+### Client Services Technician <time>Dec 2011 - Jun 2013</time>
+<location>Walmart Associate Help Desk</location>
+
+- Developed and implemented a self-service tool that effectively resolved common issues, resulting in a significant reduction in resolution time and effort.
+- Utilized incident management tools to accurately record reported problems and assess their business impact, enabling efficient tracking and analysis of incidents.
+- Proactively identified and connected callers to the appropriate resources, facilitating faster and more effective issue resolution.
+- Provided comprehensive technical support to associates, swiftly addressing their issues and minimizing business productivity disruptions.
+- Successfully prioritized and worked through incident backlogs, ensuring timely resolution of critical issues and improving overall incident management efficiency.
